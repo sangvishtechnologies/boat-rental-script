@@ -75,7 +75,7 @@ As we embark on a new year of adventure and exploration, let Sangvish's [Best Bo
 
 At Sangvish's Best Boat Rental Script, we're more than just a rental service—we're your partner in exploration and adventure. Whether you're seeking thrills on the water or moments of serenity, we're here to make your boating dreams a reality. 
 
-Come sail away with Sangvish's today! - https://sangvish.com/boat-rental-script/
+Click here for a live demo of our boat rental script, setting sail towards your next aquatic adventure! - https://sangvish.com/boat-rental-script/
 
 **Contact Us,**
 
